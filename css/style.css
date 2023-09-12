@@ -243,7 +243,7 @@ header .intro-text {
 }
 @media (max-width: 768px) {
   #portfolio .section-title {
-    background: #444 url(../img/mobile-bg.jpg) center center no-repeat fixed;
+    background: #444 url(../img/menu-bg.jpg) center center no-repeat fixed;
     background-size: cover;
   }
 }
