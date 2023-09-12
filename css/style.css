@@ -261,13 +261,13 @@ header .intro-text {
 }
 
 #restaurant-menu .section-title {
-  background: #444 url("/img/test.jpeg") center center no-repeat fixed;
+  background: #444 url("../img/test.jpeg") center center no-repeat fixed;
   background-size: cover;
 }
 
 @media (min-width: 768px) {
   #restaurant-menu .section-title {
-    background: #444 url("/img/menu-bg.jpg") center center no-repeat fixed;
+    background: #444 url("../img/menu-bg.jpg") center center no-repeat fixed;
     background-size: cover;
   }
 }
